@@ -5,5 +5,5 @@
     💬 Eater of dumplings, soupy noodles, and (sometimes) grocery store sushi
     📫 Explorer of Orange County, California
     😄 Bruin
-    ⚡ Fun fact: Former California Amateur Skateboarding Champion (CASL)
+    ⚡ Fun fact: Former California Amateur Skateboarding League Champion (CASL)
     
