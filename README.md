@@ -7,7 +7,7 @@
     😄 Bruin
     ⚡ Fun fact: Former California Amateur Skateboarding League Champion (CASL)
     
-    ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCINg22R9y7_qrYXH1zWwIVQ?style=social]
+    ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCINg22R9y7_qrYXH1zWwIVQ?style=social)
     
 <div class="row">
   <img alt="Jack Hayes' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JackAce&show_icons=true" height="165">
