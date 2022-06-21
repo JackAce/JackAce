@@ -12,6 +12,7 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackAce&layout=compact" />
 </div>
 
-<a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
-
-<a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/views/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
+<div class="row">
+    <a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
+    <a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/views/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
+</div>
