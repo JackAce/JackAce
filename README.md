@@ -4,7 +4,7 @@
     🤔 Exploiter of software flaws
     💬 Eater of dumplings, soupy noodles, and (occasionally) grocery store sushi
     📫 Explorer of Orange County, California
-    😄 Bruin
+    😄 Go Bruins! 💙💛
     ⚡ Fun fact: Former California Amateur Skateboarding League Champion (CASL)
 
 <div class="row">
