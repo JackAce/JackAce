@@ -18,3 +18,12 @@
   <img alt="Jack Hayes' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JackAce&show_icons=true" height="165" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackAce&layout=compact" />
 </div>
+
+Some cool things to check out:
+<br/><br/>
+    
+* <a href="https://www.jackace.com/" >JackAce.com</a>
+* <a href="https://www.jackace.com/games/wordle/solver/" >Wordle Solver</a>
+* <a href="https://www.jackace.com/gabling/roulette/bet-analyzer/" >Roulette Bet Analyzer</a>
+
+
