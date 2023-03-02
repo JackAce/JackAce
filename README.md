@@ -19,11 +19,16 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackAce&layout=compact" />
 </div>
 
-Some cool things to check out:
-<br/><br/>
-    
-* <a href="https://www.jackace.com/" >JackAce.com</a>
-* <a href="https://www.jackace.com/games/wordle/solver/" >Wordle Solver</a>
-* <a href="https://www.jackace.com/gabling/roulette/bet-analyzer/" >Roulette Bet Analyzer</a>
+
+Some cool things I made that you can check out:
+
+* [JackAce.com](https://www.jackace.com)
+* [Wordle Solver](https://www.jackace.com/games/wordle/solver/)
+* [The Roulette Bet Analyzer](https://www.jackace.com/gambling/roulette/bet-analyzer/)
+* [TipiT - The Palindromic Tip Calculator](https://tipit.jackace.com/)
+* [Chip Shuffling Simulator](https://chipsimulator.jackace.com/)
+* [Baccarat Solver](https://gto-baccarat.jackace.com/)
+* [Baccarat Edge Sorting Simulator](https://edgesorter.jackace.com/)
+* [Lotto EV Calculator](https://lottoev.jackace.com/)
 
 
