@@ -26,6 +26,7 @@ Some cool things I made that you can check out:
 * [JackAce on YouTube!](https://www.youtube.com/@JackAceDotCom)
 * [JackAce on TikTok](https://www.tiktok.com/@jackace.com)
 * [Roulette System Catalog - Over 200 Systems!](https://www.jackace.com/gambling/roulette/systems/)
+* [Roulette Bet Analyzer](https://rba.jackace.com/)
 * [Wordle Solver](https://www.jackace.com/games/wordle/solver/)
 * [The Roulette Bet Analyzer](https://www.jackace.com/gambling/roulette/bet-analyzer/)
 * [TipiT - The Palindromic Tip Calculator](https://tipit.jackace.com/)
@@ -33,5 +34,3 @@ Some cool things I made that you can check out:
 * [Baccarat Solver](https://gto-baccarat.jackace.com/)
 * [Baccarat Edge Sorting Simulator](https://edgesorter.jackace.com/)
 * [Lotto EV Calculator](https://lottoev.jackace.com/)
-
-
