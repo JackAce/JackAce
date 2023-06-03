@@ -19,7 +19,6 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackAce&layout=compact" />
 </div>
 
-
 Some cool things I made that you can check out:
 
 * [JackAce.com](https://www.jackace.com)
