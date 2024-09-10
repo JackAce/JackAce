@@ -22,6 +22,7 @@
 Some cool things I made that you can check out:
 
 * [JackAce.com](https://www.jackace.com)
+* [The JackAce Store](https://shop.jackace.com/)
 * [JackAce on YouTube!](https://www.youtube.com/@JackAceDotCom)
 * [JackAce on TikTok](https://www.tiktok.com/@jackace.com)
 * [Roulette System Catalog - Hundreds of Systems!](https://www.jackace.com/gambling/roulette/systems/)
