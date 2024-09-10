@@ -24,7 +24,7 @@ Some cool things I made that you can check out:
 * [JackAce.com](https://www.jackace.com)
 * [JackAce on YouTube!](https://www.youtube.com/@JackAceDotCom)
 * [JackAce on TikTok](https://www.tiktok.com/@jackace.com)
-* [Roulette System Catalog - Over 200 Systems!](https://www.jackace.com/gambling/roulette/systems/)
+* [Roulette System Catalog - Hundreds of Systems!](https://www.jackace.com/gambling/roulette/systems/)
 * [Roulette Bet Analyzer](https://rba.jackace.com/)
 * [Wordle Solver](https://www.jackace.com/games/wordle/solver/)
 * [The Roulette Bet Analyzer](https://www.jackace.com/gambling/roulette/bet-analyzer/)
