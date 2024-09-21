@@ -12,6 +12,9 @@
     <a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/views/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
     <a href="https://twitter.com/JackAce"><img alt="GitHub Stars" src="https://img.shields.io/twitter/follow/jackace?style=social" /></a>
     <a href="https://github.com/JackAce"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/JackAce?style=social" /></a>
+    <a href="https://discord.gg/R6nTPzcpma"><img alt="GitHub Stars" src="https://img.shields.io/discord/911456015860510720?label=JackAce%20Discord%20Hootenany&labelColor=0055cc" /></a>
+
+    https://img.shields.io/discord/911456015860510720?label=JackAce%20Discord%20Hootenany&labelColor=0055cc
 </div>
 
 <div class="row">
