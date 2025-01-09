@@ -32,6 +32,7 @@ Some cool things I made that you can check out:
 * [Wordle Solver](https://www.jackace.com/games/wordle/solver/)
 * [The Roulette Bet Analyzer](https://www.jackace.com/gambling/roulette/bet-analyzer/)
 * [Mines Simulator](https://mines-sim.jackace.com/)
+* [Labouchère Simulator](https://labouchere-sim.jackace.com/)
 * [TipiT - The Palindromic Tip Calculator](https://tipit.jackace.com/)
 * [Baccarat Solver](https://gto-baccarat.jackace.com/)
 * [Baccarat Edge Sorting Simulator](https://edgesorter.jackace.com/)
