@@ -23,18 +23,22 @@
 
 Some cool things I made that you can check out:
 
+<h3>Brand & Social Media</h3>
 * [JackAce.com](https://www.jackace.com)
 * [The JackAce Store](https://shop.jackace.com/)
 * [JackAce on YouTube!](https://www.youtube.com/@JackAceDotCom)
 * [JackAce on TikTok](https://www.tiktok.com/@jackace.com)
 * [Roulette System Catalog - Hundreds of Systems!](https://www.jackace.com/gambling/roulette/systems/)
+
+<h3>Analysis Tools</h3>
 * [Roulette Bet Analyzer](https://rba.jackace.com/)
 * [Wordle Solver](https://www.jackace.com/games/wordle/solver/)
-* [The Roulette Bet Analyzer](https://www.jackace.com/gambling/roulette/bet-analyzer/)
 * [Mines Simulator](https://mines-sim.jackace.com/)
 * [Labouchère Simulator](https://labouchere-sim.jackace.com/)
-* [TipiT - The Palindromic Tip Calculator](https://tipit.jackace.com/)
 * [Baccarat Solver](https://gto-baccarat.jackace.com/)
 * [Baccarat Edge Sorting Simulator](https://edgesorter.jackace.com/)
 * [Lotto EV Calculator](https://lottoev.jackace.com/)
+
+<h3>Goofy Tools</h3>
+* [TipiT - The Palindromic Tip Calculator](https://tipit.jackace.com/)
 * [Chip Shuffling Simulator](https://chipsimulator.jackace.com/)
