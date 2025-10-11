@@ -13,6 +13,7 @@
     <a href="https://github.com/JackAce"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/JackAce?style=social" /></a>
     <a href="https://discord.gg/R6nTPzcpma"><img alt="Discord" src="https://img.shields.io/discord/911456015860510720?logo=discord&logoColor=ffffff&label=The%20JackAce%20Hootenany&labelColor=0055cc" /></a>
     <a href="https://bsky.app/profile/jackace.com"><img alt="BlueSky" src="https://img.shields.io/bluesky/followers/jackace.com" /></a>
+    <a href="https://www.jackace.com/gambling/roulette/systems/"><img alt="Roulette System Count" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.jackace.com%2Fjson%2Froulette-systems.json&query=%24.length&label=Roulette%20System%20Count" /></a>   
 </div>
 
 
