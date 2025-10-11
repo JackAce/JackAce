@@ -12,6 +12,7 @@
     <a href="https://www.youtube.com/channel/UCINg22R9y7_qrYXH1zWwIVQ"><img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCINg22R9y7_qrYXH1zWwIVQ?style=social" /></a>
     <a href="https://github.com/JackAce"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/JackAce?style=social" /></a>
     <a href="https://discord.gg/R6nTPzcpma"><img alt="Discord" src="https://img.shields.io/discord/911456015860510720?logo=discord&logoColor=ffffff&label=The%20JackAce%20Hootenany&labelColor=0055cc" /></a>
+    <a href="https://bsky.app/profile/jackace.com"><img alt="BlueSky" src="https://img.shields.io/bluesky/followers/jackace.com" /></a>
 </div>
 
 
